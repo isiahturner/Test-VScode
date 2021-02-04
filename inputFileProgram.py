@@ -12,3 +12,5 @@ while d == 5:
     d += 1
 
 print("hello world")
+
+a = "Happy Days"
