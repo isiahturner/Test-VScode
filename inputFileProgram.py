@@ -17,3 +17,5 @@ a = "Happy Days"
 b = "try again"
 c = "be happy"
 print(a, b, c)
+"Do you believe in love after love"
+"Whats up"
