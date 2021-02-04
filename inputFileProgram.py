@@ -14,4 +14,6 @@ while d == 5:
 print("hello world")
 
 a = "Happy Days"
-b = "fuck"
+b = "try again"
+c = "be happy"
+print(a, b, c)
