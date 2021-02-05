@@ -1,3 +1,5 @@
+# The way to create a new virtual environment is to do python -m venv venv. The first venv is the module being downloaded and the second venv is the second argument
+
 firstName = input("Enter your first name: ")
 lastName = input("Enter your last name: ")
 
