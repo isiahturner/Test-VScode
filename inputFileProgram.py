@@ -19,3 +19,5 @@ c = "be happy"
 print(a, b, c)
 "Do you believe in love after love"
 "Whats up"
+
+f = 4
